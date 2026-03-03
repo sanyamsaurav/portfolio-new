@@ -74,6 +74,7 @@ Here is the folder structure of this app.
   |- .env.example
   |- .env/.env.local
   |- .gitignore
+  |- .npmrc
   |- bun.lock
   |- index.html
   |- netlify.toml
@@ -85,6 +86,7 @@ Here is the folder structure of this app.
   |- postcss.config.cjs
   |- tailwind.config.ts
   |- tsconfig.json
+  |- vercel.json
   |- vite.config.ts
 ```
 <!--- FOLDER_STRUCTURE_END --->
