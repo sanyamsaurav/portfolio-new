@@ -32,9 +32,8 @@ const Banner = ({ hide, setHide }: BannerProps) => {
     <div
       id="sticky-banner"
       tabIndex={-1}
-      className={`${
-        hide ? "hidden" : "block"
-      } absolute h-20 top-0 left-0 z-50 flex justify-between w-full p-4 bg-primary shadow-md opacity-[0.98]`}
+      className={`${hide ? "hidden" : "block"
+        } absolute h-20 top-0 left-0 z-50 flex justify-between w-full p-4 bg-primary shadow-md opacity-[0.98]`}
     >
       <div className="flex items-center mx-auto">
         <p className="flex items-center text-sm font-normal text-gray-500 ">
@@ -49,14 +48,14 @@ const Banner = ({ hide, setHide }: BannerProps) => {
             <span className="sr-only">Light bulb</span>
           </span>
           <span>
-            Did you enjoy this portfolio? Take a look at my{" "}
+            Take a look at my{" "}
             <Link
-              to="https://www.sanidhyy.name"
+              to="https://github.com/sanyamsaurav"
               target="_blank"
               rel="noreferrer noopener"
               className="inline font-medium text-blue-600 underline underline-offset-2 decoration-600 hover:no-underline"
             >
-              new portfolio
+              github profile
             </Link>
             .
           </span>
