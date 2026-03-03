@@ -1,0 +1,8 @@
+npm warn deprecated @types/tailwindcss@3.1.0: This is a stub types definition. tailwindcss provides its own type definitions, so you do not need this installed.
+
+added 216 packages, and audited 217 packages in 44s
+
+30 packages are looking for funding
+  run `npm fund` for details
+
+found 0 vulnerabilities
