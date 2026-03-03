@@ -2,8 +2,6 @@
 
 # Modern 3D Portfolio using React, Three.js and Typescript
 
-![Modern 3D Portfolio using React, Three.js and Typescript](/.github/images/img_main.png "Modern 3D Portfolio using React, Three.js and Typescript")
-
 [![Ask Me Anything!](https://flat.badgen.net/static/Ask%20me/anything?icon=github&color=black&scale=1.01)](https://github.com/sanidhyy "Ask Me Anything!")
 [![GitHub license](https://flat.badgen.net/github/license/sanidhyy/3d-portfolio?icon=github&color=black&scale=1.01)](https://github.com/sanidhyy/3d-portfolio/blob/main/LICENSE "GitHub license")
 [![Maintenance](https://flat.badgen.net/static/Maintained/yes?icon=github&color=black&scale=1.01)](https://github.com/sanidhyy/3d-portfolio/commits/main "Maintenance")
@@ -151,13 +149,7 @@ VITE_APP_EMAILJS_RECIEVER=your@email.com
 
 ## :camera: Screenshots:
 
-![Showcase your skills](/.github/images/img1.png "Showcase your skills")
-
-![Showcase your projects](/.github/images/img2.png "Showcase your projects")
-
-![Modern UI/UX](/.github/images/img3.png "Modern UI/UX")
-
-![Functional Contact form](/.github/images/img4.png "Functional Contact form")
+*(Screenshots to be added)*
 
 ## :gear: Tech Stack
 
