@@ -34,7 +34,6 @@ import {
   user3,
   youtube,
   linkedin,
-  twitter,
   github,
 } from "../assets";
 
@@ -259,11 +258,7 @@ export const SOCIALS = [
     icon: linkedin,
     link: "https://www.linkedin.com/in/sanyam-saurav-a265362ba",
   },
-  {
-    name: "Twitter",
-    icon: twitter,
-    link: "https://x.com/_sanidhyy",
-  },
+
   {
     name: "GitHub",
     icon: github,

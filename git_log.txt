@@ -1,0 +1,29 @@
+commit 5c4713cc198417db49864bc1173716ad9dc5f84c
+Author: Delta student <sanyamsaurav283@gmail.com>
+Date:   Tue Mar 3 16:31:53 2026 +0530
+
+     Remove old netlify links from README
+
+commit f7f72210f48f0a2576919bfdad126e2cdf19ae56
+Author: Delta student <sanyamsaurav283@gmail.com>
+Date:   Tue Mar 3 15:37:33 2026 +0530
+
+     Remove MIT License and old Github links
+
+commit 4ff198538fb4fd34c62754cf9c7ceb30779094bc
+Author: Delta student <sanyamsaurav283@gmail.com>
+Date:   Tue Mar 3 15:05:43 2026 +0530
+
+     Remove old images from README
+
+commit d6fa7e696623d6c1d0dfba65618779e97f3a1a06
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Tue Mar 3 09:18:35 2026 +0000
+
+    docs: update dependencies and folder structure in README
+
+commit ea6abf30213b4522b46828fa9dac0d4bffb80d36
+Author: Delta student <sanyamsaurav283@gmail.com>
+Date:   Tue Mar 3 14:47:56 2026 +0530
+
+     Initial commit
