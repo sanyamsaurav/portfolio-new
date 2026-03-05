@@ -76,6 +76,12 @@ Here is the folder structure of this app.
   |- .gitignore
   |- .npmrc
   |- bun.lock
+  |- git_log.txt
+  |- git_output.txt
+  |- git_push.txt
+  |- git_status.txt
+  |- git_status2.txt
+  |- git_status3.txt
   |- index.html
   |- netlify.toml
   |- npm_install_out.txt
